@@ -1,0 +1,41 @@
+Product_ID,Product_Name,Actual_Market_Price,Listed_Price,Rating,Reviews_Count,Seller_Score,Cluster,Status
+P101,iPhone 15 Pro,120000,118500,4.6,5200,95,0,Genuine
+P102,iPhone 15 Pro,120000,117900,4.5,4800,94,0,Genuine
+P103,iPhone 15 Pro,120000,119500,4.7,6100,96,0,Genuine
+P104,iPhone 15 Pro,120000,118000,4.6,5500,93,0,Genuine
+P105,iPhone 15 Pro,120000,117500,4.5,5000,95,0,Genuine
+P106,iPhone 15 Pro,120000,118700,4.6,5700,94,0,Genuine
+P107,iPhone 15 Pro,120000,45000,4.9,8,35,1,Suspicious
+P108,iPhone 15 Pro,120000,42000,4.8,5,30,1,Suspicious
+P109,Samsung S25 Ultra,110000,108000,4.5,4300,92,0,Genuine
+P110,Samsung S25 Ultra,110000,109500,4.6,5000,94,0,Genuine
+P111,Samsung S25 Ultra,110000,107500,4.4,4100,91,0,Genuine
+P112,Samsung S25 Ultra,110000,108800,4.5,4700,93,0,Genuine
+P113,Samsung S25 Ultra,110000,109200,4.6,5200,95,0,Genuine
+P114,Samsung S25 Ultra,110000,39000,4.8,5,28,1,Suspicious
+P115,Samsung S25 Ultra,110000,41000,4.9,7,32,1,Suspicious
+P116,OnePlus 13,70000,69000,4.4,3200,90,0,Genuine
+P117,OnePlus 13,70000,68500,4.5,3500,91,0,Genuine
+P118,OnePlus 13,70000,69500,4.6,3900,92,0,Genuine
+P119,OnePlus 13,70000,68800,4.5,3400,90,0,Genuine
+P120,OnePlus 13,70000,25000,4.9,4,22,1,Suspicious
+P121,OnePlus 13,70000,27000,4.8,6,25,1,Suspicious
+P122,Xiaomi 15,60000,59000,4.3,2800,88,0,Genuine
+P123,Xiaomi 15,60000,58500,4.4,3000,89,0,Genuine
+P124,Xiaomi 15,60000,59500,4.5,3300,90,0,Genuine
+P125,Xiaomi 15,60000,59200,4.4,3100,88,0,Genuine
+P126,Xiaomi 15,60000,21000,4.8,3,20,1,Suspicious
+P127,Google Pixel 10,85000,84000,4.6,2500,91,0,Genuine
+P128,Google Pixel 10,85000,84500,4.5,2700,92,0,Genuine
+P129,Google Pixel 10,85000,83500,4.7,2900,93,0,Genuine
+P130,Google Pixel 10,85000,30000,4.9,5,27,1,Suspicious
+P131,Vivo X300 Pro,75000,74000,4.4,2200,89,0,Genuine
+P132,Vivo X300 Pro,75000,73500,4.5,2400,90,0,Genuine
+P133,Vivo X300 Pro,75000,74500,4.6,2600,91,0,Genuine
+P134,Vivo X300 Pro,75000,26000,4.8,4,24,1,Suspicious
+P135,Oppo Find X9,80000,79000,4.5,2300,90,0,Genuine
+P136,Oppo Find X9,80000,78500,4.6,2500,91,0,Genuine
+P137,Oppo Find X9,80000,79500,4.5,2700,92,0,Genuine
+P138,Oppo Find X9,80000,28000,4.9,6,26,1,Suspicious
+P139,Nothing Phone 4,50000,49000,4.4,1800,87,0,Genuine
+P140,Nothing Phone 4,50000,18000,4.9,2,18,1,Suspicious
