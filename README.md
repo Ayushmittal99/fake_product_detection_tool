@@ -160,16 +160,10 @@ fake_product_detection_tool/
 ├── data/
 │   ├── products.csv
 │
-├── notebooks/
-│   ├── Fake_Product_Detection.ipynb
-│
-├── images/
-│   ├── dbscan_clusters.png
-│   ├── workflow.png
-│
 ├── requirements.txt
 ├── README.md
 └── fake_product_detection.py
+
 ```
 
 ---
